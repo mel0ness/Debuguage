@@ -3,98 +3,98 @@
         {
             "id": 1,
             "isActive": true,
-            "img": "212312.jpg",
-            "location": "24, Rue Georges Lardennois"
+            "img": "concept-house.jpeg",
+            "location": "Rue Georges Lardennois"
         },
         {
             "id": 2,
             "isActive": false,
-            "img": "212130.jpg",
-            "location": "8, Rue Georges Lardennois"
+            "img": "concept-house.jpeg",
+            "location": "Rue Georges Lardennois"
         },
         {
             "id": 3,
-            "isActive": false,
-            "img": "212131.jpg",
-            "location": "4, Rue Georges Lardennois"
+            "isActive": true,
+            "img": "concept-house.jpeg",
+            "location": "Rue Georges Lardennois"
         },
         {
             "id": 4,
             "isActive": true,
-            "img": "214200.jpg",
-            "location": "81, Rue Georges Lardennois"
+            "img": "concept-house.jpeg",
+            "location": "Rue Georges Lardennois"
         },
         {
             "id": 5,
-            "isActive": false,
-            "img": "214100.jpg",
-            "location": "2, Rue Rémy de Gourmont"
+            "isActive": true,
+            "img": "concept-house.jpeg",
+            "location": "Rue Georges Lardennois"
         },
         {
             "id": 6,
             "isActive": true,
-            "img": "214110.jpg",
-            "location": "12, Rue Rémy de Gourmont"
+            "img": "concept-house.jpeg",
+            "location": "Rue Georges Lardennois"
         },
         {
             "id": 7,
             "isActive": true,
-            "img": "214120.jpg",
-            "location": "18, Rue Rémy de Gourmont"
+            "img": "concept-house.jpeg",
+            "location": "Rue Georges Lardennois"
         },
         {
             "id": 8,
             "isActive": true,
-            "img": "215100.jpg",
-            "location": "4, Rue Edgar Poe"
+            "img": "concept-house.jpeg",
+            "location": "Rue Georges Lardennois"
         },
         {
             "id": 9,
             "isActive": true,
-            "img": "215200.jpg",
-            "location": "7, Rue Edgar Poe"
+            "img": "concept-house.jpeg",
+            "location": "Rue Georges Lardennois"
         },
         {
             "id": 10,
             "isActive": true,
-            "img": "215300.jpg",
-            "location": "17, Rue Edgar Poe"
+            "img": "concept-house.jpeg",
+            "location": "Rue Georges Lardennois"
         },
         {
             "id": 11,
             "isActive": true,
-            "img": "215400.jpg",
-            "location": "24, Rue Edgar Poe"
+            "img": "concept-house.jpeg",
+            "location": "Rue Georges Lardennois"
         },
         {
             "id": 12,
-            "isActive": false,
-            "img": "216100.jpg",
-            "location": "2, Rue Philippe Hetch"
+            "isActive": true,
+            "img": "concept-house.jpeg",
+            "location": "Rue Georges Lardennois"
         },
         {
             "id": 13,
             "isActive": true,
-            "img": "216200.jpg",
-            "location": "6, Rue Philippe Hetch"
+            "img": "concept-house.jpeg",
+            "location": "Rue Georges Lardennois"
         },
         {
             "id": 14,
             "isActive": true,
-            "img": "216300.jpg",
-            "location": "9, Rue Philippe Hetch"
+            "img": "concept-house.jpeg",
+            "location": "Rue Georges Lardennois"
         },
         {
             "id": 15,
-            "isActive": false,
-            "img": "217100.jpg",
-            "location": "2, Rue Barrelet de Ricou"
+            "isActive": true,
+            "img": "concept-house.jpeg",
+            "location": "Rue Georges Lardennois"
         },
         {
             "id": 16,
             "isActive": true,
-            "img": "217200.jpg",
-            "location": "4, Rue Barrelet de Ricou"
+            "img": "concept-house.jpeg",
+            "location": "Rue Georges Lardennois"
         },
         {
             "id": 17,

@@ -1,4 +1,5 @@
 const $sensorsWrapper = document.querySelector('.sensors-wrapper')
+const $dropdownForm = document.querySelector('.dropdown-form')
 
 const ITEMS_PER_PAGE = 8
 
@@ -35,7 +36,7 @@ const createSensorCardInfo = sensor => {
     $sensorInfoStatus.classList.add('sensor-info-status')
     $sensorInfoStatus.innerHTML = sensor.isActive
         ? `Status : <span class="on">actif</span>`
-        : `Status : <span class="off">inactif</span>`
+        : `Status : <span class="off">inactive</span>`
     
     
     const $sensorInfoBtn = document.createElement('a')
@@ -100,6 +101,12 @@ const calculateOffset = () => {
 
     return (Number(pageParams) - 1) * ITEMS_PER_PAGE
 }
+
+// @TODO: Need to finish the function implementation
+$dropdownForm.addEventListener('change', function(e) {
+    console.log(e.target.value)
+
+})
 
 
 const main = async () => {
